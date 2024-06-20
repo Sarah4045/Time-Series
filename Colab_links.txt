@@ -1,0 +1,5 @@
+Time Series
+https://colab.research.google.com/drive/1dp5hSi4pXZ1l7391JJh91Lwzwb0_1tY8#scrollTo=OAa9C-WI78yh
+============
+Arima
+https://colab.research.google.com/drive/1MFLEnxufh6-c1kbXHOmbCYmN_HGY0sa4#scrollTo=iSysyfVRMxH0
